@@ -2,6 +2,10 @@
 AWS Project Used In Production
 
 
+Diagram
+![AWS Project Used In Production](https://github.com/UnnatiRami/aws-vpc-project/blob/main/vpc-example-private-subnets.png?raw=true)
+
+
 # AWS VPC Project
 
 This project involves creating a VPC for a production environment with enhanced resiliency and security. The project includes the following steps:
